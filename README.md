@@ -1,8 +1,8 @@
 # Clang
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Build Status](https://travis-ci.org/saschpe/docker-clang.svg?branch=master)](https://travis-ci.org/saschpe/docker-clang)
-[![Docker Pulls](https://img.shields.io/docker/pulls/saschpe/clang.svg)]()
-[![Docker Build Status](https://img.shields.io/docker/build/saschpe/clang.svg)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/saschpe/clang.svg)](https://hub.docker.com/r/saschpe/docker-clang/)
+[![Docker Build Status](https://img.shields.io/docker/build/saschpe/clang.svg)](https://hub.docker.com/r/saschpe/docker-clang/)
 
 Clang Docker container based on Alpine Linux.
 
